@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.github.lopatoj.hello-packaging</id>
+  
+  <name>Hello Packaging</name>
+  <summary>test</summary>
+  
+  <metadata_license>CC-BY-4.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  
+  <description>
+    <p>
+      App to test entire app development process as part of elementary OS tutorial.
+    </p>
+  </description>
+  
+  <launchable type="desktop-id">com.github.lopatoj.hello-packaging.desktop</launchable>
+  <custom>
+    <value key="x-appcenter-color-primary">#603461</value>
+    <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+    <value key="x-appcenter-suggested-price">5</value>
+    <value key="x-appcenter-stripe">pk_live_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</value>
+  </custom>
+</component>

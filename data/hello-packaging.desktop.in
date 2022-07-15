@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+​
+Name=Hello Packaging
+Comment=test
+Categories=Development;Education;
+​
+Icon=com.github.lopatoj.hello-packaging
+Exec=com.github.lopatoj.hello-packaging
+Terminal=false

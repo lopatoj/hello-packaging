@@ -1,0 +1,3 @@
+src/Application.vala
+data/hello-packaging.desktop.in
+data/hello-packaging.metainfo.xml.in

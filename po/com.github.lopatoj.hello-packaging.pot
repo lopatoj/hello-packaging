@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.lopatoj.hello-packaging package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.lopatoj.hello-packaging\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-15 02:22-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/Application.vala:15
+msgid "This label is packaged yo!"
+msgstr ""
+
+#: src/Application.vala:19
+msgid "hello but packaged"
+msgstr ""
+
+#: data/hello-packaging.desktop.in:6 data/hello-packaging.metainfo.xml.in:5
+msgid "Hello Packaging"
+msgstr ""
+
+#: data/hello-packaging.desktop.in:7 data/hello-packaging.metainfo.xml.in:6
+msgid "test"
+msgstr ""
+
+#: data/hello-packaging.desktop.in:10
+msgid "com.github.lopatoj.hello-packaging"
+msgstr ""
+
+#: data/hello-packaging.metainfo.xml.in:12
+msgid ""
+"App to test entire app development process as part of elementary OS tutorial."
+msgstr ""
